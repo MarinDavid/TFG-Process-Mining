@@ -1,2 +1,2 @@
 # TFG-Process-Mining
-This is my repository for the images of my "TFG"
+This is my repository for the images of my "TFG" about Process Mining
